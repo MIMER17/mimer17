@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir</h1>
-<h3 align="center">I am Frontend/Game Developer who is passionate about Game Art/Design</h3>
+<h3 align="center">I am Game Developer who is passionate about Game Art/Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimer17&label=Profile%20views&color=0e75b6&style=flat" alt="mimer17" /> </p>
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/mihirpshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihirpshetty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mihir-shetty-36b383182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-shetty-36b383182" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mihirshetty8290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mihirshetty8290" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mihirshetty8290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mihirshetty8290" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
